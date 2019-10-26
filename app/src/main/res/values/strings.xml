@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SuperheroApp</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">HOME</string>
+    <string name="favorite">FAVORITE</string>
+    <string name="profile">PROFILE</string>
+    <string name="isi_favmenu">Nggak tau mau isi apa</string>
+    <string name="isi_profilemenu">Tugas 1 SMK Coding. Vicky dan Fatin</string>
+    <string name="home_menu">Ini halaman home</string>
+</resources>
